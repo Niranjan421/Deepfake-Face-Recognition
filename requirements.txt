@@ -4,3 +4,4 @@ Pillow
 streamlit
 tensorflow
 tensorflow_intel
+apt install libgl1-mesa-glx
