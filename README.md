@@ -2,9 +2,7 @@
 
 # Deepfake-Face-Recognition
 
- 
-
-# Explanatory Video for Deepfake Face Detection
+## Explanatory Video for Deepfake Face Detection
 https://github.com/user-attachments/assets/f7986a39-4f09-4f93-875f-4c9203bddff6
 
 <!-- ABOUT THE PROJECT -->
@@ -18,7 +16,7 @@ Key Features:
 * User-Friendly Interface: Includes an intuitive interface for easy interaction and result interpretation. :smile:
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 
 
