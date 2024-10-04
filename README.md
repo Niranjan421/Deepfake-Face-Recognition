@@ -16,7 +16,7 @@ Key Features:
 * User-Friendly Interface: Includes an intuitive interface for easy interaction and result interpretation. :smile:
 
 # Installation
-To install it, download all the files in a ZIP format, check the image location according to your device, and then click on the app.py file to run it,your site will be up and running.
+To install it, download all the files in a ZIP format, check the image location according to your device, and then click on the main.py file to run it,your site will be up and running.
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
 
