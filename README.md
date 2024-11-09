@@ -6,7 +6,7 @@
 https://github.com/user-attachments/assets/f7986a39-4f09-4f93-875f-4c9203bddff6
 ## Index: 
 - [About The Project](#About-The-Project)
-- [Key Features:](#Key-Features)
+- [Key Features](#Key-Features)
 - [Installation](#Installation)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
