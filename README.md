@@ -21,7 +21,7 @@ Deepfake Recognition is a machine learning project designed to detect and classi
 # Installation
 To install it, download all the files in a ZIP format, check the image location according to your device, and then click on the main.py file to run it,your site will be up and running.
 
-To deploy this project run
+To deploy this project run:
 ```bash
 pip install streamlit
 ```
